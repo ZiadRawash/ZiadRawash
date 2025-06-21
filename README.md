@@ -2,7 +2,7 @@
 
 **`.NET Developer | Backend Engineer | Problem Solver`**
 
-I'm a passionate .NET developer who loves building robust web applications and APIs. I specialize in creating scalable backend solutions and working with databases. I also have knowledge of frontend technologies and use Python for problem-solving challenges.
+I'm a passionate .NET developer who loves building robust web applications and APIs. I specialize in creating scalable backend solutions and working with databases. I also have knowledge of frontend technologies, I use Python for problem-solving challenges.
 
 ---
 
